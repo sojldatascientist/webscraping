@@ -1,0 +1,577 @@
+,region
+0, Député de l'Ain
+1, Députée de l'Isère
+2, Députée de la Haute-Marne
+3, Député de la Haute-Corse
+4, Député de Seine-Maritime
+5, Député de la Guyane
+6, Député des Bouches-du-Rhône
+7, Député du Doubs
+8, Députée de Mayotte
+9, Député des Pyrénées-Orientales
+10, Députée de la Loire-Atlantique
+11, Député de la Seine-Saint-Denis
+12, Député d'Ille-et-Vilaine
+13, Député représentant les Français établis hors de France
+14, Députée de la Drôme
+15, Député de la Charente-Maritime
+16, Député de la Moselle
+17, Députée de l'Essonne
+18, Député de Vaucluse
+19, Députée de la Seine-Saint-Denis
+20, Députée de Paris
+21, Député de la Haute-Garonne
+22, Député d'Ille-et-Vilaine
+23, Députée des Alpes-de-Haute-Provence
+24, Député des Yvelines
+25, Député du Finistère
+26, Députée de la Mayenne
+27, Député du Doubs
+28, Députée de La Réunion
+29, Député des Yvelines
+30, Députée de La Réunion
+31, Députée des Deux-Sèvres
+32, Députée de l'Isère
+33, Député de Seine-Maritime
+34, Député de Loir-et-Cher
+35, Député de Meurthe-et-Moselle
+36, Députée de l'Aube
+37, Députée de la Haute-Vienne
+38, Députée de la Marne
+39, Député du Haut-Rhin
+40, Député de la Moselle
+41, Députée de La Réunion
+42, Députée de la Guadeloupe
+43, Député d'Ille-et-Vilaine
+44, Députée des Yvelines
+45, Député du Nord
+46, Député du Gard
+47, Député des Côtes-d'Armor
+48, Député de l'Aube
+49, Députée de la Haute-Saône
+50, Députée du Gers
+51, Député du Pas-de-Calais
+52, Députée de l'Aveyron
+53, Député du Calvados
+54, Député du Rhône
+55, Député de l'Oise
+56, Député de Maine-et-Loire
+57, Député du Rhône
+58, Députée de la Savoie
+59, Députée de l'Aisne
+60, Député du Cantal
+61, Député de la Loire
+62, Député des Côtes-d'Armor
+63, Député du Territoire de Belfort
+64, Député de Vaucluse
+65, Député de la Gironde
+66, Député de Seine-Maritime
+67, Députée du Pas-de-Calais
+68, Député des Hauts-de-Seine
+69, Député de Paris
+70, Député du Calvados
+71, Députée des Hautes-Alpes
+72, Députée des Bouches-du-Rhône
+73, Députée des Yvelines
+74, Députée des Alpes-Maritimes
+75, Député de l'Ain
+76, Député de Wallis-Et-Futuna
+77, Députée d'Indre-et-Loire
+78, Député du Nord
+79, Député de l'Aisne
+80, Député du Val-de-Marne
+81, Député de Loir-et-Cher
+82, Députée du Rhône
+83, Député des Alpes-Maritimes
+84, Député de la Polynésie Française
+85, Député des Pyrénées-Atlantiques
+86, Députée du Rhône
+87, Députée du Jura
+88, Député de l'Ardèche
+89, Député du Nord
+90, Députée de la Loire-Atlantique
+91, Député de la Vendée
+92, Députée de la Seine-Saint-Denis
+93, Députée de l'Oise
+94, Député de la Haute-Garonne
+95, Députée des Hauts-de-Seine
+96, Députée de la Meuse
+97, Député du Val-de-Marne
+98, Député du Val-de-Marne
+99, Député de la Haute-Corse
+100, Députée du Nord
+101, Député du Haut-Rhin
+102, Député des Landes
+103, Députée du Rhône
+104, Députée représentant les Français établis hors de France
+105, Député du Gers
+106, Député des Pyrénées-Orientales
+107, Député du Gard
+108, Député de Vaucluse
+109, Députée de l'Isère
+110, Député d'Indre-et-Loire
+111, Députée du Gard
+112, Députée de la Seine-Saint-Denis
+113, Députée du Doubs
+114, Député du Puy-de-Dôme
+115, Député de la Dordogne
+116, Député du Nord
+117, Député des Vosges
+118, Député des Deux-Sèvres
+119, Député de l'Essonne
+120, Député du Nord
+121, Député de la Loire
+122, Député des Alpes-Maritimes
+123, Député de Saint-Pierre-et-Miquelon
+124, Députée de la Drôme
+125, Député de la Vienne
+126, Députée d'Ille-et-Vilaine
+127, Député de l'Isère
+128, Députée d'Indre-et-Loire
+129, Député de la Corse-du-Sud
+130, Député de la Seine-Saint-Denis
+131, Député de la Seine-Saint-Denis
+132, Député des Ardennes
+133, Député du Cher
+134, Députée de Saône-et-Loire
+135, Député de la Haute-Marne
+136, Députée de la Gironde
+137, Députée de l'Yonne
+138, Député de la Dordogne
+139, Député du Val-d'Oise
+140, Députée du Jura
+141, Député de Lot-et-Garonne
+142, Député de la Loire-Atlantique
+143, Député de l'Oise
+144, Députée de la Gironde
+145, Député de la Gironde
+146, Députée de la Côte-d'Or
+147, Députée de la Drôme
+148, Députée du Nord
+149, Députée des Yvelines
+150, Député de la Marne
+151, Député des Bouches-du-Rhône
+152, Député du Loiret
+153, Députée de la Savoie
+154, Députée d'Eure-et-Loir
+155, Député de l'Aisne
+156, Député de la Côte-d'Or
+157, Député de l'Ain
+158, Député de la Dordogne
+159, Député de la Somme
+160, Député de l'Hérault
+161, Députée du Pas-de-Calais
+162, Député de la Loire-Atlantique
+163, Députée de Paris
+164, Députée du Nord
+165, Député du Cantal
+166, Député du Val-de-Marne
+167, Député des Bouches-du-Rhône
+168, Député de la Moselle
+169, Député du Nord
+170, Député des Bouches-du-Rhône
+171, Député de Saône-et-Loire
+172, Député de l'Aisne
+173, Députée de Seine-et-Marne
+174, Député des Alpes-Maritimes
+175, Député du Loiret
+176, Députée des Hautes-Pyrénées
+177, Députée de la Dordogne
+178, Députée du Loiret
+179, Députée de l'Hérault
+180, Députée de Maine-et-Loire
+181, Députée de la Haute-Savoie
+182, Députée de la Loire-Atlantique
+183, Député de l'Allier
+184, Députée des Hauts-de-Seine
+185, Députée du Gard
+186, Député du Pas-de-Calais
+187, Députée du Calvados
+188, Député de la Nouvelle-Calédonie
+189, Députée de Maine-et-Loire
+190, Député de l'Essonne
+191, Député du Pas-de-Calais
+192, Député représentant les Français établis hors de France
+193, Députée de la Loire-Atlantique
+194, Député de l'Hérault
+195, Députée du Val-d'Oise
+196, Députée de la Loire-Atlantique
+197, Députée du Cher
+198, Député de l'Hérault
+199, Député du Pas-de-Calais
+200, Députée de la Gironde
+201, Député de la Charente-Maritime
+202, Député du Puy-de-Dôme
+203, Député du Pas-de-Calais
+204, Députée des Hauts-de-Seine
+205, Députée de la Loire
+206, Député de Seine-et-Marne
+207, Député de Seine-et-Marne
+208, Député de la Mayenne
+209, Député du Finistère
+210, Député de la Corse-du-Sud
+211, Députée de Meurthe-et-Moselle
+212, Député des Deux-Sèvres
+213, Députée de Seine-Maritime
+214, Députée des Hauts-de-Seine
+215, Député du Tarn
+216, Députée des Alpes-de-Haute-Provence
+217, Députée de la Sarthe
+218, Député de l'Indre
+219, Députée représentant les Français établis hors de France
+220, Député de Lot-et-Garonne
+221, Député du Haut-Rhin
+222, Député du Rhône
+223, Député du Bas-Rhin
+224, Député du Gard
+225, Députée du Val-de-Marne
+226, Député de Meurthe-et-Moselle
+227, Député de la Mayenne
+228, Député du Rhône
+229, Député des Vosges
+230, Député de Saône-et-Loire
+231, Députée des Pyrénées-Orientales
+232, Députée représentant les Français établis hors de France
+233, Députée du Doubs
+234, Député de la Charente-Maritime
+235, Députée de l'Eure
+236, Député de la Marne
+237, Député des Hautes-Alpes
+238, Députée de l'Ain
+239, Député de Paris
+240, Député de la Nouvelle-Calédonie
+241, Députée du Var
+242, Député de la Manche
+243, Député du Val-de-Marne
+244, Députée de la Nièvre
+245, Député de l'Eure
+246, Députée de Meurthe-et-Moselle
+247, Députée des Yvelines
+248, Député des Pyrénées-Orientales
+249, Députée de Paris
+250, Député de la Sarthe
+251, Député de Paris
+252, Députée du Var
+253, Député de Paris
+254, Députée de l'Essonne
+255, Députée de Saint-Barthélemy et Saint-Martin
+256, Député des Pyrénées-Atlantiques
+257, Député représentant les Français établis hors de France
+258, Députée des Yvelines
+259, Députée de la Gironde
+260, Député de la Moselle
+261, Député de la Loire-Atlantique
+262, Députée des Hauts-de-Seine
+263, Député de la Vendée
+264, Député du Val-de-Marne
+265, Députée de l'Aude
+266, Député du Bas-Rhin
+267, Député du Bas-Rhin
+268, Député représentant les Français établis hors de France
+269, Député du Nord
+270, Député de la Vienne
+271, Député de l'Hérault
+272, Député du Nord
+273, Député du Nord
+274, Députée de la Haute-Garonne
+275, Député du Rhône
+276, Député de Seine-et-Marne
+277, Député du Morbihan
+278, Députée de l'Isère
+279, Députée du Loiret
+280, Député de la Corrèze
+281, Député de l'Indre
+282, Député des Côtes-d'Armor
+283, Députée de la Loire-Atlantique
+284, Député de la Loire
+285, Député du Rhône
+286, Député de Seine-Maritime
+287, Député de Mayotte
+288, Députée de l'Isère
+289, Députée de la Sarthe
+290, Député d'Eure-et-Loir
+291, Députée de la Martinique
+292, Députée de Seine-Maritime
+293, Député des Côtes-d'Armor
+294, Député du Cher
+295, Députée de la Côte-d'Or
+296, Députée du Rhône
+297, Député de Seine-et-Marne
+298, Député de l'Aisne
+299, Députée de la Manche
+300, Députée de la Marne
+301, Députée de Paris
+302, Député d'Ille-et-Vilaine
+303, Député d'Indre-et-Loire
+304, Député de la Seine-Saint-Denis
+305, Députée de Seine-et-Marne
+306, Député de la Seine-Saint-Denis
+307, Député de la Haute-Garonne
+308, Député des Landes
+309, Députée représentant les Français établis hors de France
+310, Député des Bouches-du-Rhône
+311, Député de la Charente
+312, Députée de Paris
+313, Député des Bouches-du-Rhône
+314, Députée de la Haute-Savoie
+315, Député de l'Ariège
+316, Député de l'Yonne
+317, Député du Finistère
+318, Député des Pyrénées-Atlantiques
+319, Députée des Pyrénées-Atlantiques
+320, Député de la Vendée
+321, Député de Lot-et-Garonne
+322, Député de la Gironde
+323, Députée du Val-d'Oise
+324, Député d'Ille-et-Vilaine
+325, Députée du Finistère
+326, Député de Paris
+327, Députée du Finistère
+328, Députée du Morbihan
+329, Députée des Yvelines
+330, Député de la Somme
+331, Député du Calvados
+332, Députée du Nord
+333, Député de Seine-Maritime
+334, Député du Nord
+335, Député des Côtes-d'Armor
+336, Député du Finistère
+337, Députée des Hauts-de-Seine
+338, Députée de la Vendée
+339, Député de la Haute-Saône
+340, Députée de Seine-et-Marne
+341, Députée de la Haute-Savoie
+342, Députée du Pas-de-Calais
+343, Député représentant les Français établis hors de France
+344, Député de la Martinique
+345, Député du Calvados
+346, Députée du Var
+347, Députée de l'Isère
+348, Député de la Moselle
+349, Députée du Nord
+350, Député de la Vendée
+351, Députée de Vaucluse
+352, Député de La Réunion
+353, Députée des Bouches-du-Rhône
+354, Députée de l'Orne
+355, Députée de Seine-et-Marne
+356, Député d'Ille-et-Vilaine
+357, Députée de la Haute-Vienne
+358, Députée de la Marne
+359, Député de Paris
+360, Député de Paris
+361, Députée d'Ille-et-Vilaine
+362, Député des Hauts-de-Seine
+363, Députée de la Martinique
+364, Député de la Somme
+365, Députée du Pas-de-Calais
+366, Député des Hauts-de-Seine
+367, Député d'Eure-et-Loir
+368, Député de l'Essonne
+369, Députée de la Charente
+370, Député de la Côte-d'Or
+371, Député de Maine-et-Loire
+372, Député du Var
+373, Député de la Guadeloupe
+374, Député du Var
+375, Député des Pyrénées-Atlantiques
+376, Députée du Var
+377, Député de l'Aveyron
+378, Député du Val-de-Marne
+379, Députée du Finistère
+380, Député des Bouches-du-Rhône
+381, Députée de l'Hérault
+382, Député de la Moselle
+383, Député de l'Aube
+384, Député de la Charente
+385, Députée de la Gironde
+386, Députée de la Corrèze
+387, Députée de l'Isère
+388, Députée des Bouches-du-Rhône
+389, Député du Var
+390, Député du Bas-Rhin
+391, Député de la Savoie
+392, Député des Yvelines
+393, Député de l'Oise
+394, Députée de l'Hérault
+395, Député de la Loire
+396, Député du Morbihan
+397, Députée de la Haute-Garonne
+398, Député de la Creuse
+399, Député de la Lozère
+400, Député de Vaucluse
+401, Députée du Nord
+402, Députée de l'Isère
+403, Députée du Val-d'Oise
+404, Députée du Var
+405, Député de la Haute-Garonne
+406, Député des Vosges
+407, Député de la Martinique
+408, Député de la Haute-Garonne
+409, Député de l'Orne
+410, Députée de l'Eure
+411, Députée de Paris
+412, Députée de la Loire-Atlantique
+413, Député de Maine-et-Loire
+414, Députée du Nord
+415, Député du Morbihan
+416, Député du Pas-de-Calais
+417, Député de Meurthe-et-Moselle
+418, Député de la Meuse
+419, Députée de la Gironde
+420, Députée du Val-de-Marne
+421, Député de Seine-et-Marne
+422, Député de la Côte-d'Or
+423, Députée du Val-d'Oise
+424, Député des Alpes-Maritimes
+425, Députée de Paris
+426, Député du Morbihan
+427, Député de Loir-et-Cher
+428, Député de l'Aude
+429, Député de la Nièvre
+430, Député du Rhône
+431, Député de Paris
+432, Députée des Bouches-du-Rhône
+433, Députée des Hauts-de-Seine
+434, Député représentant les Français établis hors de France
+435, Députée du Val-de-Marne
+436, Députée du Nord
+437, Député de la Seine-Saint-Denis
+438, Députée de l'Allier
+439, Députée de Seine-et-Marne
+440, Député de la Sarthe
+441, Députée de Tarn-et-Garonne
+442, Députée du Puy-de-Dôme
+443, Députée des Yvelines
+444, Députée des Bouches-du-Rhône
+445, Députée des Ardennes
+446, Députée de la Somme
+447, Député du Pas-de-Calais
+448, Député de la Haute-Garonne
+449, Député de Meurthe-et-Moselle
+450, Député du Pas-de-Calais
+451, Député de La Réunion
+452, Députée des Pyrénées-Atlantiques
+453, Député de la Gironde
+454, Députée des Yvelines
+455, Député du Lot
+456, Députée des Hauts-de-Seine
+457, Député de la Gironde
+458, Député de l'Orne
+459, Député du Val-d'Oise
+460, Député du Nord
+461, Député de la Charente-Maritime
+462, Député de l'Eure
+463, Députée de Tarn-et-Garonne
+464, Députée des Bouches-du-Rhône
+465, Député de la Seine-Saint-Denis
+466, Députée de La Réunion
+467, Député du Loiret
+468, Député de l'Essonne
+469, Député de La Réunion
+470, Députée de la Moselle
+471, Député de Saône-et-Loire
+472, Député de l'Essonne
+473, Député du Bas-Rhin
+474, Député du Haut-Rhin
+475, Député de Paris
+476, Députée de l'Hérault
+477, Député des Bouches-du-Rhône
+478, Députée du Val-d'Oise
+479, Députée de la Haute-Savoie
+480, Députée du Loiret
+481, Députée de l'Essonne
+482, Députée de l'Aude
+483, Député de la Savoie
+484, Députée de l'Essonne
+485, Député de la Haute-Savoie
+486, Députée des Hauts-de-Seine
+487, Député du Morbihan
+488, Député des Alpes-Maritimes
+489, Député du Nord
+490, Députée de la Seine-Saint-Denis
+491, Député du Rhône
+492, Député de la Somme
+493, Député de Paris
+494, Député de la Haute-Savoie
+495, Députée de la Polynésie Française
+496, Député du Val-de-Marne
+497, Députée de Maine-et-Loire
+498, Députée de la Polynésie Française
+499, Députée de la Loire
+500, Député de l'Ardèche
+501, Député de la Vienne
+502, Député du Val-d'Oise
+503, Député du Haut-Rhin
+504, Député des Hautes-Pyrénées
+505, Député du Jura
+506, Député de la Guadeloupe
+507, Député de la Guyane
+508, Député de la Gironde
+509, Député des Hauts-de-Seine
+510, Député du Doubs
+511, Député représentant les Français établis hors de France
+512, Député de la Manche
+513, Député du Haut-Rhin
+514, Député du Bas-Rhin
+515, Députée de Seine-Maritime
+516, Députée des Alpes-Maritimes
+517, Député du Val-d'Oise
+518, Députée de l'Eure
+519, Député de Paris
+520, Députée du Finistère
+521, Député de Maine-et-Loire
+522, Députée de l'Ariège
+523, Député des Bouches-du-Rhône
+524, Député du Tarn
+525, Député de la Seine-Saint-Denis
+526, Député du Bas-Rhin
+527, Député de Seine-et-Marne
+528, Députée de l'Oise
+529, Députée d'Indre-et-Loire
+530, Députée du Puy-de-Dôme
+531, Députée de la Drôme
+532, Députée du Lot
+533, Députée de la Sarthe
+534, Député du Rhône
+535, Député du Calvados
+536, Députée de la Haute-Garonne
+537, Députée des Alpes-Maritimes
+538, Député de la Manche
+539, Députée de la Moselle
+540, Député de l'Ain
+541, Députée de la Charente-Maritime
+542, Député de la Vienne
+543, Députée de Saône-et-Loire
+544, Députée de la Guadeloupe
+545, Députée de la Haute-Loire
+546, Députée des Alpes-Maritimes
+547, Député des Landes
+548, Députée de l'Allier
+549, Député de l'Oise
+550, Député de la Haute-Vienne
+551, Député de l'Isère
+552, Député du Nord
+553, Député du Rhône
+554, Députée du Tarn
+555, Député de l'Aveyron
+556, Député des Yvelines
+557, Députée du Puy-de-Dôme
+558, Députée de l'Ardèche
+559, Députée de Seine-Maritime
+560, Député de la Haute-Loire
+561, Député d'Eure-et-Loir
+562, Député de l'Hérault
+563, Députée de la Haute-Garonne
+564, Député de l'Essonne
+565, Député de l'Yonne
+566, Député des Vosges
+567, Député du Val-d'Oise
+568, Député des Ardennes
+569, Député du Bas-Rhin
+570, Député de l'Oise
+571, Députée du Bas-Rhin
+572, Député de Seine-Maritime
+573, Députée de la Moselle
+574, Député des Bouches-du-Rhône
+575, Député du Territoire de Belfort
