@@ -231,7 +231,7 @@ class Home :
       <br>
       <br>
       Scrapper et  collecter les données des déclarations financières des députés pour des travaux statistiques à partir du site
-<a target = " _blank" href = https://www.hatvp.fr/ > de la haute autorité </a> le 31 janvier 2020.
+<a target = " _blank" href = https://www.hatvp.fr/resultat-de-recherche-avancee/?document=&mandat=depute&region=0&dep= > de la haute autorité </a> le 31 janvier 2020.
 Cette étude nous aidera à faire des analyses individuelles.
       <br>
       <samp><samp style="color:blue;">L'analyse individuelle</samp> établira un tableau récapitulatif des déclarations faites
@@ -284,7 +284,7 @@ class Menu :
 
   def menu(self):
     html_temp = """<center><h4 style="background-color:orange;color:white;font-size:15px">Collecte des
-    données <a target = " _blank" href = https://www.hatvp.fr/ > du site de la haute autorité. </a> </h4></center>"""
+    données <a target = " _blank" href = https://www.hatvp.fr/resultat-de-recherche-avancee/?document=&mandat=depute&region=0&dep= > du site de la haute autorité. </a> </h4></center>"""
     st.sidebar.markdown(html_temp,unsafe_allow_html=True)
     mn = st.sidebar.radio("" ,("A propos","Déclarations"))#,"Analyse comparative","Cartographie"))
 
